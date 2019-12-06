@@ -1,5 +1,5 @@
 import react from 'react';
-import './APP.css';
+import './App.css';
 
 function App(props) {
     return (<div>
