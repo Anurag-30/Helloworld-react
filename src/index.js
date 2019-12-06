@@ -7,6 +7,7 @@ ReactDOM.render(
   React.createElement(
       'h1',
       {},
+      className="text"></h1>
       'Hello, world 2!'
   ),
   document.getElementById('root')
