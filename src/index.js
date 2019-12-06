@@ -6,7 +6,7 @@ import './index.css';
 ReactDOM.render(
   React.createElement(
       'h1',
-      {className="text"},
+      {className: "text"},
       'Hello, world 2!'
   ),
   document.getElementById('root')
