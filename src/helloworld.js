@@ -6,7 +6,7 @@ import './index.css';
 ReactDOM.render(
 
     <h1 className="text">  hello world!!</h1>,
-  document.getElementById('root')
+  document.getElementById('page1')
 );
 
 
