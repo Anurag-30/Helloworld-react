@@ -6,7 +6,8 @@ import './index.css';
 ReactDOM.render(
   <h1 className="text">  To Do list</h1>,
   <div>
-    <p></p>
+    <p>TASKS</p>
+    
   </div>,
   document.getElementById('root')
  
