@@ -3,3 +3,10 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+Creating a new class or style which will be used in helloworld.js
+
+.text {
+
+  color: blue;
+}
