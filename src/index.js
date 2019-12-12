@@ -4,7 +4,7 @@ import App from './App';
 import './index.css';
 
 ReactDOM.render(
-  <h1 className="text">  To Do list</h1>,
+  <h1 className="text"> Hello World</h1>
   
   document.getElementById('root')
  
